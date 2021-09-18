@@ -1,6 +1,6 @@
 ### Hi there, Welcome To My Github Profile
 
-## I'm an IT student at............... 
+## I'm an IT student at Posts and Telecommunications Institute of Technology
 - 👋 I’m Nguyen Hoang Phuc
 - 🌱 I’m currently learning everything and I am looking for a job
 - 👯 I’m looking to collaborate with other programmers in the world
