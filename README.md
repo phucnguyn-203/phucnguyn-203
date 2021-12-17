@@ -1,7 +1,7 @@
 ### Hi there, Welcome To My Github Profile
 
 ## I'm an Information Security student at the Posts and Telecommunications Institute of Technology in Ho Chi Minh City
-- 👋 I’m Nguyen Hoang Phuc
+- 👋 My name is Nguyen Hoang Phuc
 - 🌱 I’m currently learning everything and I am looking for a job
 - 👯 I’m looking to collaborate with other programmers in the world
 - 🥅 2021 Goals: Contribute more to Open Source projects
