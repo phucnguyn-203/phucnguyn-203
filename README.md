@@ -1,11 +1,11 @@
 ### Hi there, Welcome To My Github Profile
 
-## I'm an IT student at Posts and Telecommunications Institute of Technology
+## I'm an Information Security student at the Posts and Telecommunications Institute of Technology in Ho Chi Minh City
 - 👋 I’m Nguyen Hoang Phuc
 - 🌱 I’m currently learning everything and I am looking for a job
 - 👯 I’m looking to collaborate with other programmers in the world
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing soccer and video game 
+- ⚡ My Favorite: I love playing soccer and video game 
 - 📫 You can contact me by email phucnguyenhoang3007@gmail.com
 
 ### My Social Network
