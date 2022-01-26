@@ -4,7 +4,6 @@
 - 👋 My name is Nguyen Hoang Phuc
 - 🌱 I’m currently learning everything and I am looking for a job
 - 👯 I’m looking to collaborate with other programmers in the world
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ My Favorite: I love playing soccer and video game 
 - 📫 You can contact me by email phucnguyenhoang3007@gmail.com
 
