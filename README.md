@@ -17,11 +17,13 @@
 
 ### Languages and Tools I Have Learned:
 
-<img align="left" alt="c++" width="35px" src="./img/c++.svg" />
+
 <img align="left" alt="html" width="35px" src="./img/html.svg" />
 <img align="left" alt="css" width="35px" src="./img/css.svg" />
 <img align="left" alt="javascript" width="35px" src="./img/javascript.svg" />
 <img align="left" alt="typescript" width="35px" src="./img/typescript.svg" />
+<img align="left" alt="docker" width="35px" src="./img/docker.svg" />
+<img align="left" alt="docker" width="35px" src="./img/kubernetes.svg" />
 <img align="left" alt="react" width="35px" src="./img/react.svg" />
 <img align="left" alt="redux" width="35px" src="./img/redux.svg" />
 <img align="left" alt="nextjs" width="35px" src="./img/nextjs.svg" />
@@ -33,7 +35,8 @@
 <img align="left" alt="Visual Studio Code" width="35px" src="./img/vscode.svg" />
 <img align="left" alt="git" width="35px" src="./img/git.svg" />
 <img align="left" alt="firebase" width="35px" src="./img/firebase.svg" />
-<img align="left" alt="docker" width="35px" src="./img/docker.svg" />
+
+<img align="left" alt="c++" width="35px" src="./img/c++.svg" />
 <br />
 <br />
 <br/>
