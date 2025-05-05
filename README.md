@@ -4,8 +4,10 @@
 
 -   👋 My full name is Nguyen Hoang Phuc
 -   🌱 I'm currently studying at the Post and Telecommunications Institute of Technology, Ho Chi Minh city - majoring in Information Security.
--   👨‍💻 My goal is becoming Software Engineer
+-   👨‍💻 My portfolio: https://phucnguyenhoang.vercel.app
 -   📫 You can contact me by email phucnguyenhoang3007@gmail.com
+- 
+
 
 ### Connect with me:
 
